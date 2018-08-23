@@ -1,5 +1,5 @@
 //Laya.init(600, 400);
- 
+
 Laya3D.init(1733,768,false);
 var scene=new Laya.VRScene();
 Laya.stage.addChild(scene);
